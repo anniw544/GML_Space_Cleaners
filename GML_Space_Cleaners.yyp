@@ -8,6 +8,7 @@
     {"id":{"name":"Spr_SpaceRock_Particulers","path":"sprites/Spr_SpaceRock_Particulers/Spr_SpaceRock_Particulers.yy",},"order":5,},
     {"id":{"name":"Spr_Space_Debris_L","path":"sprites/Spr_Space_Debris_L/Spr_Space_Debris_L.yy",},"order":1,},
     {"id":{"name":"Spr_Space_Debris_S","path":"sprites/Spr_Space_Debris_S/Spr_Space_Debris_S.yy",},"order":3,},
+    {"id":{"name":"Obj_SpaceRock_Particulers","path":"objects/Obj_SpaceRock_Particulers/Obj_SpaceRock_Particulers.yy",},"order":3,},
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"order":0,},
     {"id":{"name":"Obj_bullit","path":"objects/Obj_bullit/Obj_bullit.yy",},"order":2,},
     {"id":{"name":"Spr_Space_Debris_M","path":"sprites/Spr_Space_Debris_M/Spr_Space_Debris_M.yy",},"order":2,},

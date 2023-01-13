@@ -16,8 +16,8 @@ with (other){
 		new_space_rock.sprite_index = Spr_Space_Debris_S;
 		}
 	}
-	
-	instance_create_layer(x,y,"Instances",)
+	repeat(10)
+	instance_create_layer(x,y,"Instances",Obj_SpaceRock_Particulers)
 	
 }
 
