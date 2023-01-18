@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_Player",
+  "name": "Obj_Rocket_ui",
   "spriteId": {
-    "name": "Spr_SpaceShip",
-    "path": "sprites/Spr_SpaceShip/Spr_SpaceShip.yy",
+    "name": "Spr_Rocket_ui1",
+    "path": "sprites/Spr_Rocket_ui1/Spr_Rocket_ui1.yy",
   },
   "solid": false,
   "visible": true,
@@ -26,7 +26,6 @@
   "physicsShapePoints": [],
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Obj_SpaceRock","path":"objects/Obj_SpaceRock/Obj_SpaceRock.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
   ],
   "properties": [],

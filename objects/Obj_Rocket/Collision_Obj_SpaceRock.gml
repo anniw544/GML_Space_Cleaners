@@ -2,13 +2,12 @@
 
 sprite_index = Spr_RRades
 
-if (sprite_index = Spr_RRades)
-{
-	image_alpha = image_alpha - .05
-}
-if ( image_alpha <= 0)
 
-with (other){
+
+with (other)
+if not (image_alpha<.99)
+{
+{
 	instance_destroy();
 	
 	if (sprite_index == Spr_Space_Debris_L){
@@ -26,4 +25,5 @@ with (other){
 	instance_create_layer(x,y,"Instances",Obj_SpaceRock_Particulers)
 	}
 
+}
 }
