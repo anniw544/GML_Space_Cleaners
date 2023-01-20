@@ -9,6 +9,7 @@
     {"id":{"name":"Obj_Rocket_ui","path":"objects/Obj_Rocket_ui/Obj_Rocket_ui.yy",},"order":5,},
     {"id":{"name":"Spr_Rocket_ui1","path":"sprites/Spr_Rocket_ui1/Spr_Rocket_ui1.yy",},"order":8,},
     {"id":{"name":"Spr_SpaceRock_Particulers","path":"sprites/Spr_SpaceRock_Particulers/Spr_SpaceRock_Particulers.yy",},"order":5,},
+    {"id":{"name":"Room12","path":"rooms/Room12/Room12.yy",},"order":1,},
     {"id":{"name":"Spr_RRades","path":"sprites/Spr_RRades/Spr_RRades.yy",},"order":7,},
     {"id":{"name":"Spr_Space_Debris_L","path":"sprites/Spr_Space_Debris_L/Spr_Space_Debris_L.yy",},"order":1,},
     {"id":{"name":"Spr_Space_Debris_S","path":"sprites/Spr_Space_Debris_S/Spr_Space_Debris_S.yy",},"order":3,},
@@ -38,6 +39,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room12","path":"rooms/Room12/Room12.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},

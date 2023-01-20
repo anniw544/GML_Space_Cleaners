@@ -26,9 +26,11 @@ if(keyboard_check_pressed(vk_shift)){
 	var inst = instance_create_layer(x,y, "Instances", Obj_Rocket)
 	inst.direction = image_angle;
 	rocketfired = rocketfired + 1
+	motion_add(image_angle, - 2)
 	}
 }
 
 move_wrap(true,true,20)
 
 global.playerD = image_angle;
+
