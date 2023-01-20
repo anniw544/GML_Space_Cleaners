@@ -31,3 +31,4 @@ if(keyboard_check_pressed(vk_shift)){
 
 move_wrap(true,true,20)
 
+global.playerD = image_angle;

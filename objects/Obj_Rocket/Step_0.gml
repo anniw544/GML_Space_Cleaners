@@ -23,5 +23,7 @@ if (image_alpha < 0)
 
 move_wrap(true,true,sprite_width/2)
 
-
-
+if (speed > 30)
+{
+speed = 40
+}

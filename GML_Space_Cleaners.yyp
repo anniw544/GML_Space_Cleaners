@@ -14,6 +14,8 @@
     {"id":{"name":"Spr_Space_Debris_S","path":"sprites/Spr_Space_Debris_S/Spr_Space_Debris_S.yy",},"order":3,},
     {"id":{"name":"Obj_Rocket","path":"objects/Obj_Rocket/Obj_Rocket.yy",},"order":4,},
     {"id":{"name":"Obj_SpaceRock_Particulers","path":"objects/Obj_SpaceRock_Particulers/Obj_SpaceRock_Particulers.yy",},"order":3,},
+    {"id":{"name":"F_Game_font","path":"fonts/F_Game_font/F_Game_font.yy",},"order":0,},
+    {"id":{"name":"Obj_game","path":"objects/Obj_game/Obj_game.yy",},"order":6,},
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"order":0,},
     {"id":{"name":"Obj_bullit","path":"objects/Obj_bullit/Obj_bullit.yy",},"order":2,},
     {"id":{"name":"Spr_Space_Debris_M","path":"sprites/Spr_Space_Debris_M/Spr_Space_Debris_M.yy",},"order":2,},
