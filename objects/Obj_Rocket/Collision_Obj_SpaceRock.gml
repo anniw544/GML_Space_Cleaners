@@ -2,7 +2,7 @@
 
 sprite_index = Spr_RRades
 
-
+audio_play_sound(S_death_g,1,false)
 
 with (other)
 if not (image_alpha<.99)

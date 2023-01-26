@@ -1,5 +1,6 @@
 if(room == RM_game)
 {
+	audio_play_sound(funky,2,true)
 	repeat (10){
 	var xx = choose( 
 		irandom_range(0, room_width*.3), irandom_range(0, room_width*.7)

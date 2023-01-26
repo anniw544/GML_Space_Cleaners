@@ -1,7 +1,7 @@
 score = score + 10;
 
 instance_destroy();
-
+audio_play_sound(S_death_g,1,false)
 var luck = 0;
 luck = luck + choose(1,2,3,4,5,6)
  
